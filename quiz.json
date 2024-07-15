@@ -1,19 +1,94 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of myths with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the king of the Greek gods?",
+      "answers": ["Zeus", "Hades", "Poseidon"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is the Norse god of thunder?",
+      "answers": ["Thor", "Odin", "Loki"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is the name of Thor's hammer?",
+      "answers": ["Mjolnir", "Aegis", "Gungnir"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Greek god of war?",
+      "answers": ["Ares", "Apollo", "Hermes"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Egyptian sun god?",
+      "answers": ["Ra", "Osiris", "Anubis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Roman god of war?",
+      "answers": ["Mars", "Janus", "Neptune"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Greek goddess of wisdom?",
+      "answers": ["Athena", "Hera", "Artemis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Norse Allfather?",
+      "answers": ["Odin", "Thor", "Frey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the trickster god in Norse mythology?",
+      "answers": ["Loki", "Baldur", "Frey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Greek god of the sea?",
+      "answers": ["Poseidon", "Zeus", "Hades"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Egyptian god of the dead?",
+      "answers": ["Anubis", "Horus", "Ra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Roman goddess of love?",
+      "answers": ["Venus", "Diana", "Minerva"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Greek underworld called?",
+      "answers": ["Hades", "Elysium", "Olympus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Hindu god of destruction?",
+      "answers": ["Shiva", "Vishnu", "Brahma"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Greek messenger god?",
+      "answers": ["Hermes", "Apollo", "Ares"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the queen of the Greek gods?",
+      "answers": ["Hera", "Athena", "Artemis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Norse god of the sea?",
+      "answers": ["Njord", "Odin", "Loki"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Roman king of gods?",
+      "answers": ["Jupiter", "Mars", "Neptune"],
       "correctAnswerIndex": 0
     }
   ]
